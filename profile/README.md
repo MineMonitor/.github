@@ -1,6 +1,6 @@
-# PluginCraft Solutions
+# MineMonitor
 
-Welcome to PluginCraft Solutions, a collective of developers dedicated to simplifying Minecraft and Spigot plugin development. Our mission is to provide tools and resources that empower developers to create high-quality plugins more efficiently.
+Welcome to MineMonitor, a collective of developers dedicated to simplifying Minecraft and Spigot plugin development. Our mission is to provide tools and resources that empower developers to create high-quality plugins more efficiently.
 
 ## Projects
 
